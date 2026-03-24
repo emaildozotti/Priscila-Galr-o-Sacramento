@@ -5,7 +5,7 @@ import { FadeIn } from '../App'
 const faqs = [
   {
     pergunta: 'Quanto tempo dura o processo terapêutico?',
-    resposta: 'Não existe resposta única. Cada pessoa tem seu ritmo e sua profundidade de demanda. O que posso garantir é que o processo tem direção: trabalhamos com objetivos claros, revisados periodicamente. Algumas mulheres percebem mudanças significativas nos primeiros meses. Outras precisam de mais tempo para chegar à raiz. O comprometimento com o processo é mais importante do que a velocidade.',
+    resposta: 'Não existe resposta única. Cada pessoa tem seu ritmo e sua profundidade de demanda. O plano terapêutico é desenhado de forma individual — considerando sua história, seus objetivos e o momento de vida que você está atravessando. O que posso garantir é que o processo tem direção: trabalhamos com objetivos claros, revisados periodicamente. Algumas mulheres percebem mudanças significativas nos primeiros meses. Outras precisam de mais tempo para chegar à raiz. O comprometimento com o processo é mais importante do que a velocidade.',
   },
   {
     pergunta: 'Não tenho tempo para mais uma coisa na minha agenda. Como encaixar?',

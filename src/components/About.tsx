@@ -51,7 +51,7 @@ export default function About() {
 
             <FadeIn delay={0.3}>
               <div className="flex flex-wrap gap-4">
-                {['CRP 80151', 'Formação em Psicanálise', 'Especialista em TCC', 'Ex-Executiva de RH'].map((badge) => (
+                {['CRP 80151', 'Formação em Psicanálise', 'Especialista em Psicologia Clínica', 'Ex-Executiva de RH'].map((badge) => (
                   <span
                     key={badge}
                     className="font-sans text-[10px] uppercase tracking-[0.25em] font-semibold text-primary/60 border border-primary/10 rounded-full px-6 py-2"
